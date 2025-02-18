@@ -1,6 +1,6 @@
 # Spotickup
 
-Spotickup is a Python script that backs up your followed artists and playlists from Spotify. It uses the Spotipy library to interact with the Spotify API.
+Spotickup is a Python script that backs up your followed artists and playlists from Spotify. It uses the [Spotipy](https://spotipy.readthedocs.io/) library to interact with the Spotify API.
 
 ## Installation
 
