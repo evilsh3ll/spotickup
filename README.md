@@ -27,7 +27,7 @@ Spotickup is a Python script that backs up your followed artists and playlists f
     {
       "SPOTIPY_CLIENT_ID": "YOUR_CLIENT_ID",
       "SPOTIPY_CLIENT_SECRET": "YOUR_CLIENT_SECRET",
-      "SPOTIPY_REDIRECT_URI": "http://localhost",
+      "SPOTIPY_REDIRECT_URI": "http://localhost:8888/callback",
       "OUTPUT_DIR": "/path/to/your/output/directory"
     }
     ```
