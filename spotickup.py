@@ -66,7 +66,7 @@ def main():
 	if not os.path.exists(settings_path):
 		print(Fore.RED + f"ERR: wrong settings path '{settings_path}'")
 		exit(1)
-	settings = load_settings(os.path.join(os.path.dirname(os.path.abspath(__file__)),'settings.json'))
+	settings = load_settings(settings_path)
 	if not os.path.exists(settings['OUTPUT_DIR']):
 		print(Fore.RED + f"ERR: wrong path '{settings['OUTPUT_DIR']}'")
 	
