@@ -1,4 +1,4 @@
 .cache
 .gitattributes
 .venv
-settings.json
+my-settings.json
