@@ -5,7 +5,7 @@ Spotickup is a Python script that backs up your followed artists and playlists f
 ## Installation
 
     ```bash
-    git clone [https://github.com/evilsh3ll/spotickup.git](https://github.com/evilsh3ll/spotickup.git)
+    git clone https://github.com/evilsh3ll/spotickup.git
     cd spotickup
     python3 -m venv .venv
     source .venv/bin/activate
